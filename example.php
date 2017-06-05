@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=divice-width, initial-scale=1.0">
         <title></title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="example.css">
     </head>
     <body>
         <div id = "test1" class = "test customScroll_scrolable">
@@ -58,6 +58,6 @@
         <button id = "toNextPage">toNextPage</button> 
         <input id = "offset" type = "number" value = "-30" name = "">
         <script src = "customScroll.js"></script>
-        <script src = "test.js"></script>
+        <script src = "example.js"></script>
     </body>
 </html>
