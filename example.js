@@ -2,18 +2,18 @@
 
 
 document.addEventListener("DOMContentLoaded", function(){
-    var test1Scroll = new customScroll(
+    var test1Scroll = new CustomScroll(
             document.getElementById('test1_content'),
             document.getElementById('test1_scrollBar'),
             document.getElementById('test1_scrollBar_element')
             );
-    var test2Scroll = new customScroll(
+    var test2Scroll = new CustomScroll(
             document.getElementById('test2_content'),
             document.getElementById('test2_scrollBar'),
             document.getElementById('test2_scrollBar_element'),
             document.getElementById('test2')
             );
-    var test3Scroll = new customScroll(
+    var test3Scroll = new CustomScroll(
             document.getElementById('test3_content'),
             document.getElementById('test3_scrollBar'),
             document.getElementById('test3_scrollBar_element'),
