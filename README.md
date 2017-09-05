@@ -57,11 +57,11 @@ And have styles similar:
 
 Then use:
 ```js
-new customScroll(contentElement, scrollBarAreaElement, scrollBarCarriageElement, containerElement)
+new CustomScroll(contentElement, scrollBarAreaElement, scrollBarCarriageElement, containerElement)
 ```
 or
 ```js
-new customScroll(contentElement, scrollBarAreaElement, scrollBarCarriageElement)
+new CustomScroll(contentElement, scrollBarAreaElement, scrollBarCarriageElement)
 ```
 to initialize scrollBar.
 
